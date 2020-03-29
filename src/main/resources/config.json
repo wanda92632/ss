@@ -1,0 +1,14 @@
+{
+  "paths": {
+    "sourcesFilePath": "D:\\test.txt",
+    "configFilePath": "C:\\software\\Shadowsocks-4.0.10\\gui-config.json"
+  },
+  "states": {
+    "JP": "日本",
+    "DE": "德国",
+    "US": "美国",
+    "RU": "俄罗斯",
+    "SG": "新加坡",
+    "GB": "英国"
+  }
+}
